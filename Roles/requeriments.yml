@@ -1,4 +1,4 @@
 collections:
-  - name: dlemaireibm.pingdl
-    version: 2.9.21
+  - name: geerlingguy.php_roles
+    version: 1.0.0
     source: https://galaxy.ansible.com
