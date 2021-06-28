@@ -6,5 +6,5 @@ roles:
     
 colecciones:
   - nombre: geerlingguy.php_roles
-    versión: 0.9.3
+    versión: 3.4.12
     fuente: https://galaxy.ansible.com
