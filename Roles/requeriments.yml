@@ -1,10 +1,10 @@
 roles:
     
   - src: https://github.com/oscardalmau/public-role-1
-    versión: main
+    version: main
     scm: git
     
-colecciones:
-  - nombre: geerlingguy.php_roles
-    versión: 3.4.12
-    fuente: https://galaxy.ansible.com
+collections:
+  - name: geerlingguy.php_roles
+    version: 3.4.12
+    source: https://galaxy.ansible.com
