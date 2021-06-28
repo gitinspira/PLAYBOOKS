@@ -1,10 +1,7 @@
 roles:
-  - src: https://github.com/oscardalmau/private-role-1
-    versión: principal
-    scm: git
     
   - src: https://github.com/oscardalmau/public-role-1
-    versión: principal
+    versión: main
     scm: git
     
 colecciones:
