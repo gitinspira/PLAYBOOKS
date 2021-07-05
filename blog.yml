@@ -4,7 +4,7 @@
     - geerlingguy.php_roles
 
   roles:
-    - php
+    - geerlingguy.php_roles
     - role: php-versions
       vars:
         php_version: '7.3'
